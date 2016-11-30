@@ -1,5 +1,5 @@
 # hello-world
-First Repository for anything in general.
+First Repository.
 
 c1 = 'Computers'
 c2 = 'code'
